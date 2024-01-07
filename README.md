@@ -1,4 +1,4 @@
-# FreeBSD WEb App With Node.js
+# FreeBSD Web App With Node.js
 
 #Node.js is an application built on the Chrome JavaScript runtime, with Node.js it makes it easier for developers to create reliable, fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model, which makes it very lightweight and efficient, ideal for data-intensive real-time applications running on distributed devices.
 
